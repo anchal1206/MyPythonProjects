@@ -1,0 +1,8 @@
+# lenofname=len(input("what is your name?"))
+# print(type(lenofname))
+# new_name =str(lenofname)
+# print("your name has" +" " + new_name + " "+ "character.")
+# a=float(123)
+# print(type(a))
+# print(str(234)+ str(345))
+print(28+float(3.8))
